@@ -1,7 +1,7 @@
 Halla verden!
 
 
-Yoo filen er nå endret.
+Filen er nå endret for første gang.
 
 
-Filen er endret igjen!!!
+Filen er nå endret for andre gang.
